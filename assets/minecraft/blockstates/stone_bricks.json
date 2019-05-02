@@ -1,7 +1,7 @@
 {
     "variants": {
         "": [
-			{ "model": "block/stone_bricks/stone_bricks_normal" },
+			{ "model": "block/stone_bricks" },
 			{ "model": "block/stone_bricks/stone_bricks_normal2" },
 			{ "model": "block/stone_bricks/stone_bricks_normal3" },
 			{ "model": "block/stone_bricks/stone_bricks_normal4" },
