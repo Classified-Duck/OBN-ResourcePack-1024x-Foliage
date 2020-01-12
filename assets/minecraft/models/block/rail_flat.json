@@ -4,6 +4,7 @@
 	"textures": {
 		"1": "item/iron_bars",
 		"2": "block/spruce_planks"
+		"particle": "block/spruce_planks"
 	},
 	"elements": [
 		{
