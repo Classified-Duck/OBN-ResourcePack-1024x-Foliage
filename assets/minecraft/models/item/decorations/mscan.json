@@ -3,8 +3,7 @@
 	"textures": {
 		"2": "custom/msusa",
 		"3": "custom/mstrash",
-		"134": "block/purple_terracotta",
-		"particle": "block/mstrash"
+		"134": "block/purple_terracotta"
 	},
 	"elements": [
 		{
@@ -1647,8 +1646,8 @@
 			}
 		},
 		{
-			"from": [5.7, 4.8, 4.3],
-			"to": [10.3, 7.625, 4.35],
+			"from": [5.7, 4.8, 4.35],
+			"to": [10.3, 7.625, 4.4],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 4, 8]},
 			"faces": {
 				"north": {"uv": [0.313, 0.625, 15.813, 15.975], "texture": "#2"},
@@ -1656,8 +1655,8 @@
 			}
 		},
 		{
-			"from": [5.7, 4.8, 11.65],
-			"to": [10.3, 7.625, 11.7],
+			"from": [5.7, 4.8, 11.6],
+			"to": [10.3, 7.625, 11.65],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 4, 8]},
 			"faces": {
 				"north": {"uv": [14, 0, 0, 15.85], "texture": "#3"},
