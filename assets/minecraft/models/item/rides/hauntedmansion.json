@@ -2,7 +2,7 @@
 	"credit": "Made by Autvmn",
 	"textures": {
 		"0": "block/black_concrete_powder",
-		"2": "block/gray",
+		"2": "custom/gray",
 		"particle": "block/black_concrete_powder"
 	},
 	"elements": [

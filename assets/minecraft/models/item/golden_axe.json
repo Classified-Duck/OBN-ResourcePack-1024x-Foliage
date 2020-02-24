@@ -6,6 +6,7 @@
 "overrides":[
 { "predicate": { "damaged": 0, "damage": 0.03125}, "model":"item/decorations/bench"},
 { "predicate": { "damaged": 0, "damage": 0.0625}, "model":"item/decorations/popcorn_cart"},
-{ "predicate": { "damaged": 0, "damage": 0.09375}, "model":"item/decorations/tlbench"}
+{ "predicate": { "damaged": 0, "damage": 0.09375}, "model":"item/decorations/tlbench"},
+{ "predicate": { "damaged": 0, "damage": 0.125}, "model":"item/decorations/lsbench"}
 ]
 }
