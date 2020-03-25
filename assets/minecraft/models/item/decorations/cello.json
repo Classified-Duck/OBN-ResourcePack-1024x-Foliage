@@ -2,7 +2,7 @@
 	"credit": "Made by Autvmn",
 	"textures": {
 		"1": "block/jungle_planks",
-		"2": "Desktop/chellotexture",
+		"2": "custom/chellotexture",
 		"3": "block/black_concrete_powder",
 		"4": "block/clay",
 		"particle": "block/jungle_planks"
