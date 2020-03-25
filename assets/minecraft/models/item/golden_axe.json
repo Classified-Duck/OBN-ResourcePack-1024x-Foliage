@@ -9,6 +9,7 @@
 { "predicate": { "damaged": 0, "damage": 0.09375}, "model":"item/decorations/tlbench"},
 { "predicate": { "damaged": 0, "damage": 0.125}, "model":"item/decorations/lsbench"},
 { "predicate": { "damaged": 0, "damage": 0.15625}, "model":"item/decorations/cashregister"},
-{ "predicate": { "damaged": 0, "damage": 0.1875}, "model":"item/decorations/cello"}
+{ "predicate": { "damaged": 0, "damage": 0.1875}, "model":"item/decorations/cello"},
+{ "predicate": { "damaged": 0, "damage": 0.21875}, "model":"item/decorations/pincart"}
 ]
 }

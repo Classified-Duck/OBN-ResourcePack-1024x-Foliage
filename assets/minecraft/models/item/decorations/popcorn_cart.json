@@ -4488,6 +4488,15 @@
 		"thirdperson_righthand": {
 			"rotation": [90, 0, -10],
 			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [0, 90, 0],
+			"translation": [-1, -2.25, 0],
+			"scale": [1, 0.61, 0.66]
+		},
+		"head": {
+			"translation": [0, -22, 0],
+			"scale": [2.75, 2.75, 2.75]
 		}
 	},
 	"groups": [
