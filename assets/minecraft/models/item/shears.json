@@ -13,7 +13,9 @@
 	  { "predicate": { "damaged": 0, "damage": 0.033613445378}, "model": "item/rides/barnstormermiddle"},
 	  { "predicate": { "damaged": 0, "damage": 0.037815126050}, "model": "item/rides/barnstormerback"},
 	  { "predicate": { "damaged": 0, "damage": 0.042016806722}, "model": "item/rides/hauntedmansion"},
-	  { "predicate": { "damaged": 0, "damage": 0.046218487394}, "model": "item/rides/jcboat"}
+	  { "predicate": { "damaged": 0, "damage": 0.046218487394}, "model": "item/rides/jcboat"},
+	  { "predicate": { "damaged": 0, "damage": 0.050420168067}, "model": "item/rides/splashmountain"},
+	  { "predicate": { "damaged": 0, "damage": 0.054621848739}, "model": "item/rides/splashbar"}
 	  
     ]
 }
