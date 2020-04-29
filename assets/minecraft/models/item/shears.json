@@ -18,7 +18,8 @@
 	  { "predicate": { "damaged": 0, "damage": 0.054621848739}, "model": "item/rides/splashbar"},
 	  { "predicate": { "damaged": 0, "damage": 0.058823529411}, "model": "item/rides/iasw_blue"},
 	  { "predicate": { "damaged": 0, "damage": 0.063025210084}, "model": "item/rides/iasw_red"},
-	  { "predicate": { "damaged": 0, "damage": 0.067226890756}, "model": "item/rides/iasw_yellow"}
+	  { "predicate": { "damaged": 0, "damage": 0.067226890756}, "model": "item/rides/iasw_yellow"},
+	  { "predicate": { "damaged": 0, "damage": 0.071428571428}, "model": "item/rides/peterpan"}
 	  
     ]
 }
