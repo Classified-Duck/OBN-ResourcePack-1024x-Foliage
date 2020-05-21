@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Anivator",
 	"textures": {
-		"0": "item/raw_porkchop",
-		"particle": "item/raw_porkchop"
+		"0": "item/porkchop",
+		"particle": "item/porkchop"
 	},
 	"elements": [
 		{

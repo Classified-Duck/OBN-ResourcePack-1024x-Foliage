@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Anivator",
 	"textures": {
-		"0": "item/raw_rabbit",
-		"particle": "item/raw_rabbit"
+		"0": "item/rabbit",
+		"particle": "item/rabbit"
 	},
 	"elements": [
 		{
