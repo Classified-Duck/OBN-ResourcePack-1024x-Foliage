@@ -12,7 +12,7 @@
 		"8": "block/jungle_planks",
 		"9": "block/gold_block",
 		"10": "block/light_gray_wool",
-		"11": "custom/btmrrlogo",
+		"11": "custom/btmrr",
 		"12": "custom/btmiw",
 		"14": "block/green_terracotta",
 		"15": "block/brown_concrete_powder",
@@ -12330,7 +12330,7 @@
 			"scale": [0.64, 0.6, 0.58]
 		},
 		"head": {
-			"scale": [3.5, 3.5, 3.5]
+			"scale": [2.7, 2.7, 2.7]
 		}
 	},
 	"groups": [
