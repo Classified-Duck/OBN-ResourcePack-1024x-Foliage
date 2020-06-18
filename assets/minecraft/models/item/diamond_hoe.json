@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+"overrides":[
+{ "predicate": { "damaged": 0, "damage": putthedecimalhere}, "model":"item/hats/puttheitemnamehere"}
+
+]
+}
