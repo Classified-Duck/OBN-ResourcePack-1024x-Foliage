@@ -5,7 +5,9 @@
     },
 "overrides":[
 { "predicate": { "damaged": 0, "damage": 0.00064061}, "model":"item/hats/mousketeer_ears"},
-{ "predicate": { "damaged": 0, "damage": 0.00128123}, "model":"item/hats/birthday_ears"}
+{ "predicate": { "damaged": 0, "damage": 0.00128123}, "model":"item/hats/birthday_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.00192184}, "model":"item/hats/grad_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.00256245}, "model":"item/hats/sorcerer_ears"}
 
 ]
 }
