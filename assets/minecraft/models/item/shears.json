@@ -22,7 +22,8 @@
 	  { "predicate": { "damaged": 0, "damage": 0.071428571428}, "model": "item/rides/peterpan"},
 	  { "predicate": { "damaged": 0, "damage": 0.075630252100}, "model": "item/rides/winniethepooh"},
 	  { "predicate": { "damaged": 0, "damage": 0.079831932773}, "model": "item/rides/btm_front"},
-	  { "predicate": { "damaged": 0, "damage": 0.084033613445}, "model": "item/rides/btm_back"}
+	  { "predicate": { "damaged": 0, "damage": 0.084033613445}, "model": "item/rides/btm_back"},
+	  { "predicate": { "damaged": 0, "damage": 0.088235294117}, "model": "item/rides/royodisney"}
 	  
     ]
 }
