@@ -12350,7 +12350,7 @@
 		"thirdperson_righthand": {
 			"rotation": [90, 0, 0],
 			"translation": [-5.5, 22.25, 6],
-			"scale": [4, 4, 4]
+			"scale": [3.5, 3.5, 3.5]
 		},
 		"gui": {
 			"rotation": [0, -159, 0],
