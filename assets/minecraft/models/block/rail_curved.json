@@ -1,8 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Autvmn",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "item/iron_bars"
+		"1": "item/iron_bars",
 		"particle": "item/iron_bars"
 	},
 	"elements": [
