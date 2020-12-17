@@ -14,9 +14,9 @@
 { "predicate": { "damaged": 0, "damage": 0.25}, "model":"item/decorations/msbench"},
 { "predicate": { "damaged": 0, "damage": 0.28125}, "model":"item/decorations/clockface"},
 { "predicate": { "damaged": 0, "damage": 0.3125}, "model":"item/decorations/trumpet"},
-{ "predicate": { "damaged": 0, "damage": 0.34375}, "model":"item/decorations/wreatharm"},
-{ "predicate": { "damaged": 0, "damage": 0.375}, "model":"item/decorations/wreathlamp"},
-{ "predicate": { "damaged": 0, "damage": 0.4062}, "model":"item/decorations/wreathhub"},
+{ "predicate": { "damaged": 0, "damage": 0.34375}, "model":"item/decorations/wreath_arm"},
+{ "predicate": { "damaged": 0, "damage": 0.375}, "model":"item/decorations/wreath_lamp"},
+{ "predicate": { "damaged": 0, "damage": 0.4062}, "model":"item/decorations/wreath_hub"},
 { "predicate": { "damaged": 0, "damage": 0.4375}, "model":"item/decorations/garland"}
 ]
 }
